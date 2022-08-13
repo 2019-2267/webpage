@@ -1,0 +1,28 @@
+body {
+  font-size: 100%;
+  background: #f8f8ff;
+  background-image: url("/webpage/pastel.jpg");
+}
+
+.CLEAR {
+	width: 2%;
+	position: center;
+  margin: 0px auto;
+  border: 1px solid #b0c4de;
+  background: #FF69B4;
+  border-radius: 0px 0px 10px 10px;
+}
+.table table-bordered{
+ height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 50px;
+  border-radius: 5px;
+  border: 3px solid black;
+}
+.th{
+
+	display: block;
+  text-align: left;
+  margin: 3px;
+}

@@ -1,0 +1,16 @@
+
+body {
+  font-size: 100%;
+  background: #f8f8ff;
+  background-image: url("/webpage/pastel.jpg");
+}
+
+}
+.KOL {
+	width: 3%;
+	position: left;
+  margin: 0px auto;
+  border: 1px solid #b0c4de;
+  background: #FF69B4;
+  border-radius: 0px 0px 10px 10px;
+}
